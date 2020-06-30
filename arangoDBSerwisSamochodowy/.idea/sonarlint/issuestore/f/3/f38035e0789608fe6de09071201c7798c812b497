@@ -1,0 +1,99 @@
+
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ü¡‰·°.
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(Òˆê£8Üöµ°.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(’¾ıÿÿÿÿÿ8 èÈ°°.
+[	java:S106è"9Replace this use of System.out or System.err by a logger.(®€Çöúÿÿÿÿ8çâ ¶°.
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(™× “ÿÿÿÿÿ8íêí¹°.
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8íêí¹°.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(¾–——şÿÿÿÿ8ü¡‰·°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æÕÉÒ8¤¯ÿ¯°.
+n
+java:S1192]"LDefine a constant instead of duplicating this literal "listaCzesci" 4 times.(ä‚Ä˜üÿÿÿÿ8Â¨¶°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½Ç€•8¤¯ÿ¯°.
+[	java:S106½"9Replace this use of System.out or System.err by a logger.(ö°ÿÿÿÿÿ8”ş–¶°.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(Çš¾îüÿÿÿÿ8 èÈ°°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ùª 8ü¡‰·°.
+U	java:S106Ç"9Replace this use of System.out or System.err by a logger.(²ôÚO8ª·ƒ¶°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ğê8Šò¦·°.
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(ö°ÿÿÿÿÿ8ÎØ¤¶°.
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(€ñú¿8íêí¹°.
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(€ñú¿8ü¡‰·°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šİ‰·8¤¯ÿ¯°.
+[	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ñà›´øÿÿÿÿ8çâ ¶°.
+[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ö°ÿÿÿÿÿ8çâ ¶°.
+i
+java:S1192Z"LDefine a constant instead of duplicating this literal "imieKlienta" 4 times.(È±Òû8Í¡¦¶°.
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(”¨®Íúÿÿÿÿ8íêí¹°.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¬âñ8ü¡‰·°.
+V	java:S106×"9Replace this use of System.out or System.err by a logger.(¡œ€õ8çâ ¶°.
+o
+java:S1192^"MDefine a constant instead of duplicating this literal "cenaZlecenia" 4 times.(¯³üÒûÿÿÿÿ8´¾¨¶°.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(®ßˆ®øÿÿÿÿ8ü¡‰·°.
+q
+java:S1192f"ODefine a constant instead of duplicating this literal "modelSamochodu" 3 times.(úì €ùÿÿÿÿ8´–©¶°.
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(ÚÓÕ8íêí¹°.
+h
+java:S1192Y"FDefine a constant instead of duplicating this literal "nazwa" 8 times.(âóâ¡ûÿÿÿÿ8ÔËå´°.
+u
+java:S1192"SDefine a constant instead of duplicating this literal "serwisSamochodowy" 14 times.(”’ã¼üÿÿÿÿ8Ğ€¥µ°.
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(…«ˆñ8Üöµ°.
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(ö°ÿÿÿÿÿ8”ş–¶°.
+q
+java:S1192\"ODefine a constant instead of duplicating this literal "statusZlecenia" 4 times.(í¼±³üÿÿÿÿ8¯®§¶°.
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(‹éâÿøÿÿÿÿ8Üöµ°.
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(úÍşİşÿÿÿÿ8çâ ¶°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾íøŞøÿÿÿÿ8¤¯ÿ¯°.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ÓŸ 8 èÈ°°.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(›¡³Å8 èÈ°°.
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(¥Œıó8Üöµ°.
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(ó ã­8ü¡‰·°.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ÍŸŞıÿÿÿÿ8 èÈ°°.
+k
+java:S1192b"IDefine a constant instead of duplicating this literal "Samochod" 7 times.(é›†Úùÿÿÿÿ8Â£¶°.
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(ö°ÿÿÿÿÿ8µ •¶°.
+g
+java:S1192V"JDefine a constant instead of duplicating this literal "Zlecenie" 11 times.(¦ÊÃá8ëÛŸ¶°.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(Ú‘—‘ûÿÿÿÿ8 èÈ°°.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ïÂß–ùÿÿÿÿ8ËĞ¶°.
+V	java:S106¿"9Replace this use of System.out or System.err by a logger.(ï‚Å¬8ª·ƒ¶°.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(œÖÑÅ8ü¡‰·°.
+V	java:S106¯"9Replace this use of System.out or System.err by a logger.(›®òÏ8ª·ƒ¶°.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(”¨®Íúÿÿÿÿ8ü¡‰·°.
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(Ùª 8íêí¹°.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(±Â†“úÿÿÿÿ8 èÈ°°.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ıÏá–øÿÿÿÿ8 èÈ°°.
+[	java:S106à"9Replace this use of System.out or System.err by a logger.(ÇÅùµıÿÿÿÿ8çâ ¶°.
+>	java:S131"""Add a default case to this switch.(¨ÕÉ8¤¯ÿ¯°.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ò„¾8¤¯ÿ¯°.
+?	java:S131«""Add a default case to this switch.(¨ÕÉ8ª·ƒ¶°.
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(§İÔÇùÿÿÿÿ8ª·ƒ¶°.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(à†ŒÙ8 èÈ°°.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(™× “ÿÿÿÿÿ8ü¡‰·°.
+’
+java:S1192­"oDefine a constant instead of duplicating this literal "Podaj klucz zlecenia ktÃ³re chcesz edytowaÄ‡: " 6 times.(ö°ÿÿÿÿÿ8”ş–¶°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÜØ«8¤¯ÿ¯°.
+U	java:S106}"9Replace this use of System.out or System.err by a logger.(³œ’£8ü¡‰·°.
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(ˆ­Şµüÿÿÿÿ8Üöµ°.
+V	java:S106•"9Replace this use of System.out or System.err by a logger.(¬âñ8íêí¹°.
+[	java:S106Ş"9Replace this use of System.out or System.err by a logger.(úÍşİşÿÿÿÿ8çâ ¶°.
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(ó ã­8íêí¹°.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(¤º‹ëúÿÿÿÿ8ùÎ§¹°.
+V	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(„ç™è8Üöµ°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôû¾ûÿÿÿÿ8¤¯ÿ¯°.
+[	java:S106ğ"9Replace this use of System.out or System.err by a logger.(©–•Äøÿÿÿÿ8çâ ¶°.
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(•ß¼¨ùÿÿÿÿ8Üöµ°.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(—«·úùÿÿÿÿ8ü¡‰·°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÊü¢8¤¯ÿ¯°.
+l
+java:S1192k"JDefine a constant instead of duplicating this literal "Samochod/" 3 times.(ˆ„ úÿÿÿÿ8í…ºµ°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ø„”ı8¤¯ÿ¯°.
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(É¯¥Ãıÿÿÿÿ8Üöµ°.
+[	java:S106¨"9Replace this use of System.out or System.err by a logger.(¦Ê…’ùÿÿÿÿ8Üöµ°.
+r
+java:S1192["PDefine a constant instead of duplicating this literal "nazwiskoKlienta" 4 times.(Äæ™Âüÿÿÿÿ8ƒã¦¶°.
+[	java:S106æ"9Replace this use of System.out or System.err by a logger.(úÍşİşÿÿÿÿ8çâ ¶°.
+“
+java:S1192Ş"pDefine a constant instead of duplicating this literal "Podaj klucz samochodu ktÃ³ry chcesz edytowaÄ‡: " 3 times.(úÍşİşÿÿÿÿ8çâ ¶°.
+[	java:S106¥"9Replace this use of System.out or System.err by a logger.(–¿®“üÿÿÿÿ8Üöµ°.
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(ö°ÿÿÿÿÿ8”ş–¶°.
+U	java:S106ú"9Replace this use of System.out or System.err by a logger.(Ğê8ÚÆÚ¶°.
